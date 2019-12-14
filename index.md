@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+theme: jekyll-theme-midnight
+title: Welcome to 6toedkatz homepage!
+description: bookmark my page to see how I progress!
 
 You can use the [editor on GitHub](https://github.com/6toedkatz/6toedkatz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
